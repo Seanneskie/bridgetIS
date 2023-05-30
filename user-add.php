@@ -91,6 +91,7 @@
                         <div class="dashboard_content_main">
                             <div class="section_content"></div>
                             <div class="user">
+
                                 <table>
                                     <thead>
                                         <tr>
@@ -118,6 +119,7 @@
                                         
                                     </tbody>
                                 </table>
+                                <p class ="userCount"><?= count($users) ?> Users</p>
 
                             </div>
                         </div>

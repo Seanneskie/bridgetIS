@@ -147,13 +147,13 @@ div.loginInput input{
 }
 
 div.dashboard_sidebar{
-    width: 30%;
+    width: 20%;
     background: #663311b7;
     height: 140vh;
 }
 
 div.dashboard_content_container{
-    width: 70%;
+    width: 80%;
     background: #36353159;
 
 }
@@ -161,7 +161,8 @@ div.dashboard_content_container{
 h3.dashboard_logo{
     color: antiquewhite;
     font-size: 60px;
-    padding-left: 140px;
+    text-align: center;
+    
     
 }
 div.dashboard_sidebar_user{
@@ -177,6 +178,7 @@ div.dashboard_sidebar_user{
     margin-right: 5px;
     vertical-align: middle;
     margin-bottom: 15px;
+    
 }
 
 div.dashboard_sidebar_user span{
@@ -423,3 +425,14 @@ p.userCount{
     color: aliceblue;
 }
  
+a.update_user{
+    color: #35b952;
+    display: flex;
+    flex-direction: center;
+}
+
+a.deleteUser{
+    color: #db3b3b;
+    display: flex;
+    flex-direction: center;
+}

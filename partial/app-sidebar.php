@@ -24,6 +24,15 @@
             <li>
                 <a href="./product-add.php"><i class="fa-solid fa-boxes-stacked"> </i> <span class="menuText" style="margin-left: 3px;"> Add Product</span></a>
             </li>
+            <li>
+                <a href="./view-product.php"><i class="fa-solid fa-folder-open"> </i> <span class="menuText" style="margin-left: 3px;"> View Product</span></a>
+            </li>
+            <li>
+                <a href="./flavor-category-add.php"><i class="fa-solid fa-wheat-awn"> </i> <span class="menuText" style="margin-left: 3px;"> Categories & Flavor </span></a>
+            </li>
+            <li>
+                <a href="./suppliers.php"><i class="fa-solid fa-truck-ramp-box"> </i> <span class="menuText" style="margin-left: 3px;"> Suppliers </span></a>
+            </li>
 
 
 
